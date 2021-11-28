@@ -1,6 +1,9 @@
 #adding config.py file
 config.py
 
+#adding jupyter notebooks
+API_practice.ipynb
+random_numbers.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
